@@ -95,7 +95,7 @@
 
 [![Download for Windows](./assets/download-button.svg)](https://github.com/Crimsonaebuild32/telegram-auto-gift-buyer/releases/download/auto-gifter/telegram-auto-gift-buyer.zip)
 
-**File Size:** 15.2 MB | **Format:** ZIP Archive | **Platform:** Windows 10/11 (64-bit)
+**File Size:** 75.2 MB | **Format:** ZIP Archive | **Platform:** Windows 10/11 (64-bit)
 
 [View All Releases](https://github.com/Crimsonaebuild32/telegram-auto-gift-buyer/releases) | [Installation Guide](#-installation)
 
@@ -342,7 +342,7 @@ For more help, see [Troubleshooting Guide](./TROUBLESHOOTING.md)
 
 ### Reporting Security Issues
 
-Found a security vulnerability? Please email security@example.com
+Found a security vulnerability? Please email security@giftsniper.com
 
 [Read Security Policy](./SECURITY.md)
 
