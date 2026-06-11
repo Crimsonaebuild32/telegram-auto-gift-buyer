@@ -260,15 +260,6 @@ All operations are logged, encrypted, and can be rolled back if needed.
 ### Main Interface
 ![Main Dashboard](./assets/menu.png)
 
-### Gift Selection Interface
-![Gift Selection](./assets/screenshot-gifts.png)
-
-### Scheduling Panel
-![Scheduler](./assets/screenshot-scheduler.png)
-
-### Analytics Dashboard
-![Analytics](./assets/screenshot-analytics.png)
-
 </div>
 
 ---
