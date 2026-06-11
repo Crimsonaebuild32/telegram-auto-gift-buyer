@@ -1,0 +1,20 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Specific file types
+*.md text
+*.txt text
+*.json text
+*.xml text
+*.svg text
+
+# Binary files
+*.exe binary
+*.dll binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
